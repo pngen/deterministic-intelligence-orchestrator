@@ -218,13 +218,13 @@ logging.config.dictConfig(LOGGING_CONFIG)
 ## Installation
 Install DIO using pip:
 ```bash
-pip install dio
+pip install deterministic-intelligence-orchestrator
 ```
 
 Or install from source:
 ```bash
-git clone https://github.com/yourorg/dio.git
-cd dio
+git clone https://github.com/pngen/deterministic-intelligence-orchestrator.git
+cd deterministic-intelligence-orchestrator
 pip install -e .
 ```
 
